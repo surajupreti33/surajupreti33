@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @surajupreti33
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Javascript,java and sql.
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me email me.
 
